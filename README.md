@@ -19,17 +19,21 @@ This project is a responsive landing page built using React.js. It includes a he
 2. **Install Dependencies**
 
     If you are using npm:
+    ```bash
     npm install 
 
     If you are using yarn:
+    ```bash
     yarn install
 
 2. **Start Development Server**
    
     To run the application locally, execute the following command:
+    ```bash
     npm start 
 
     or using yarn:
+    ```bash
     yarn start
 
 ## API
@@ -40,10 +44,10 @@ API Endpoint: https://jsonplaceholder.typicode.com/users
 
 ## Additional Dependencies
 
-axios: Used to fetch data from the API.
-react-scroll: For smooth scrolling functionality.
+- axios: Used to fetch data from the API.
+- react-scroll: For smooth scrolling functionality.
 
 ## Performance Optimization
 
-Lazy Loading: Images are lazy-loaded for better performance.
-Debounced Search: The search input uses a debouncing technique to avoid unnecessary API calls while typing.
+- Lazy Loading: Images are lazy-loaded for better performance.
+- Debounced Search: The search input uses a debouncing technique to avoid unnecessary API calls while typing.
