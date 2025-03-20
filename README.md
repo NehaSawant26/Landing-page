@@ -1,4 +1,4 @@
-## Responsive website
+# Responsive Landing page with Debounced Search and API Integration
 This project is a responsive landing page built using React.js. It includes a hero section, service cards, a pricing table, and a debounced search bar that fetches and displays user data from an external API. The search bar filters the user data and shows the respective service and pricing information dynamically.
 
 ## Technologies Used
@@ -20,21 +20,25 @@ This project is a responsive landing page built using React.js. It includes a he
 
     If you are using npm:
     ```bash
-    npm install 
+    npm install
+    ``` 
 
     If you are using yarn:
     ```bash
     yarn install
+    ```
 
 2. **Start Development Server**
    
     To run the application locally, execute the following command:
     ```bash
     npm start 
+    ```
 
     or using yarn:
     ```bash
     yarn start
+    ```
 
 ## API
 
